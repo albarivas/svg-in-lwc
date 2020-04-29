@@ -1,0 +1,11 @@
+div {
+    background-color: white;
+    font-size:20px;
+    padding: 10px;
+    text-align: center;
+    border: 2px solid #00A1E0;
+}
+
+path.logo-background:hover{
+    fill: yellow;
+}
