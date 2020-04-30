@@ -6,6 +6,6 @@ div {
     border: 2px solid #00A1E0;
 }
 
-path.logo-background:hover{
+svg:hover path:first-of-type{
     fill: yellow;
 }

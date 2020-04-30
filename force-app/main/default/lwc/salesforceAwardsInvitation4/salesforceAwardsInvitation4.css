@@ -5,3 +5,7 @@ div {
     text-align: center;
     border: 2px solid #00A1E0;
 }
+
+svg use {
+    fill: #00A1E0;
+}
